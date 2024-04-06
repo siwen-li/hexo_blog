@@ -16,7 +16,7 @@ social:
 
 menu:
   home: / || home
-  about: /linux/ || coffee
+  about: /about/ || coffee
   posts:
     default: / || user
     archives: /archives/ || user

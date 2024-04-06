@@ -68,11 +68,12 @@ index_generator:
 # Category & Tag
 # default_category: uncategorized
 category_map:
-  SQL: sql
-  orcale: oracle
+  学习: code
+  MySQL: mysql
+  Python: python
+  Oracle: oracle
   Linux: linux
   杂项: other
-
 
 
 tag_map:
