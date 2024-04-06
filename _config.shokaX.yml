@@ -36,7 +36,7 @@ widgets:
 
 waline:
   enable: true # 是否启用
-  serverURL: "https://waline-hexo-5v174hpld-siwenlis-projects.vercel.app" # 将此链接换成您自己的 Domains，主页链接后面不能加 /  会出错
+  serverURL: "waline-hexo-mauve.vercel.app" # 将此链接换成您自己的 Domains，主页链接后面不能加 /  会出错
 
 homeConfig:
   gradient: false # 使用CSS渐变作为文章封面
