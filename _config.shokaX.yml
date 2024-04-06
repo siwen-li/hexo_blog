@@ -1,0 +1,46 @@
+social:
+  github: https://github.com/siwen-li || github || "#191717"
+  # google: https://plus.google.com/yourname || google
+  # twitter: https://twitter.com/yourname || twitter || "#00aff0"
+  # zhihu: https://www.zhihu.com/people/yourname || zhihu || "#1e88e5"
+  music: https://music.163.com/#/user/home?id=280480754 || cloud-music || "#e60026"
+  # weibo: https://weibo.com/yourname || weibo || "#ea716e"
+  # about: https://about.me/yourname || address-card || "#3b5998"
+  email: mailto:lisiwen523@gmail.com@gmail.com || envelope || "#55acd5"
+  # facebook: https://www.facebook.com/yourname || facebook
+  stackoverflow: https://stackoverflow.com/ || stack-overflow
+  # youtube: https://youtube.com/yourname || youtube
+  # instagram: https://instagram.com/yourname || instagram
+  # skype: skype:yourname?call|chat || skype
+  # douban: https://www.douban.com/people/yourname/ || douban
+
+menu:
+  home: / || home
+  about: /linux/ || coffee
+  posts:
+    default: / || user
+    archives: /archives/ || user
+    categories: /categories/ || cloud
+    tags: /tags/ || cloud
+
+sidebar:
+  position: left # left/right分别对应左侧/右侧
+  avatar: avatar.jpg
+
+alternate: "siwen's blog" #站点大标题，（比 title 高一级，但仅在 index 显示）
+
+
+widgets:
+  random_posts: true # 随机文章
+  recent_comments: true # 显示最近评论
+
+waline:
+  enable: true # 是否启用
+  serverURL: "https://waline-hexo-5v174hpld-siwenlis-projects.vercel.app" # 将此链接换成您自己的 Domains，主页链接后面不能加 /  会出错
+
+homeConfig:
+  gradient: false # 使用CSS渐变作为文章封面
+  # fixedCover 性能比默认的更好，且开启时将启用LCP优化和预加载
+  fixedCover: "" # 主页面cover(为空则使用bing随机图片)
+
+auto_scroll: true
